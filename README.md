@@ -1,5 +1,5 @@
 # AWBuyer
-Account manager for an online text-based gamme
+Account manager for an online text-based game
 
 Note that the code was recovered from a debug executable file after the original source code was lost.
 
